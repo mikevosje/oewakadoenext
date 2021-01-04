@@ -24,8 +24,8 @@ const Home = () => (
           De groepsindeling is gebaseerd op de situatie op het moment van inschrijving. Dus zit uw kind op het moment
           van aanmelden in bijv. groep 3, dan geldt dit ook tijdens de Oewakadoe week.<br/>
         Gedurende de hele week zal deze groep onder leiding staan van een of meerdere begeleid(st)ers.<br/><br/>
-        Oewakadoe vindt plaats in de laatste week van de basisschool vakantie. In 2020 is dat van 17 augustus t/m
-          21 augustus.<br/><br/>
+        Oewakadoe vindt plaats in de laatste week van de basisschool vakantie. In 2020 is dat van 30 augustus t/m
+          3 september.<br/><br/>
           Zorg dus dat je er bij bent!</p>
         <p>Team Oewakadoe</p>
       </ContentWithSidebar>
